@@ -19,4 +19,11 @@
         android:layout_height="250dp"
         class="com.neppplus.fragmentbasic_20220218.fragments.SecondFragment"/>
 
+
+    <fragment
+        android:tag="thirdFrag"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        class="com.neppplus.fragmentbasic_20220218.fragments.ThirdFragment"/>
+
 </LinearLayout>
